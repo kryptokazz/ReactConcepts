@@ -1,5 +1,3 @@
-# React Concepts
-
 - [Components](#components)
 - [JSX](#jsx)
 - [Curly Braces](#curly-braces)
