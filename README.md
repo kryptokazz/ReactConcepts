@@ -27,7 +27,7 @@
 
 Components are the backbone of React. 
 
-Under the hood, a React component is essentially:
+Under the hood, a React component is:
 
 1. A JavaScript function 
 2. That returns "markup" called JSX
