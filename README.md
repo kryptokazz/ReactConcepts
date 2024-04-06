@@ -92,7 +92,7 @@ class App extends React.Component {
 }
 
 export default App;
-
+```
 
 ### Components
 
@@ -223,3 +223,4 @@ const App = () => {
 };
 
 export default App;
+```
